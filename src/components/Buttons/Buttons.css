@@ -1,0 +1,9 @@
+.button-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.button-container h2 {
+    text-align: center;
+}

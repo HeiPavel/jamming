@@ -1,0 +1,17 @@
+.update-playlist-container, .update-container, .curent-playlist-tracks {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.update-button {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+  .curent-playlist-buttons {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
